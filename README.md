@@ -1,4 +1,4 @@
-## Speech-Based Calculator 🎤➕🟰
+### Speech-Based Calculator 🎤➕🟰
 
 A simple voice-activated calculator that takes speech input like "What is three plus five?" and speaks out the result.
 
