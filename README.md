@@ -7,7 +7,7 @@ A simple voice-activated calculator that takes speech input like "What is three 
 - Converts speech to text using SpeechRecognition
 - Uses text-to-speech for output
 
-### Tech Stack
+#### Tech Stack
 - Python
 - SpeechRecognition
 - Pyttsx3
